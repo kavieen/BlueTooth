@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BlueTooth</string>
+    <string name="oldDeivce">已经配对过的设备:</string>
+    <string name="newDevice">新发现的设备:</string>
+    <string name="search">搜索新设备</string>
+    <string name="deviceNoBluetooth">您的设备不支持蓝牙!</string>
+    <string name="blueToothNoOpen">蓝牙未打开，请手动打开蓝牙开关!</string>
+    <string name="blueName">名称:</string>
+    <string name="blueAddress">MAC地址:</string>
 </resources>
